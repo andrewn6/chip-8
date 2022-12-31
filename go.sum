@@ -1,2 +1,4 @@
 gioui.org v0.0.0-20221223153152-aa2a948b863a h1:Tv0ZdLLS8zkWgxFFOBXR/RSp4YvFzk7f7B9000lzo94=
 gioui.org v0.0.0-20221223153152-aa2a948b863a/go.mod h1:3lLo7xMHYnnHTrgKNNctBjEKKH3wQCO2Sn7ti5Jy8mU=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b h1:GgabKamyOYguHqHjSkDACcgoPIz3w0Dis/zJ1wyHHHU=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
