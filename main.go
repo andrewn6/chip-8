@@ -4,7 +4,6 @@ import (
 	"runtime"
 	"github.com/go-gl/glfw/v3.3/glfw"
   "github.com/anddddrew/chip-8/display"
-  "github.com/anddddrew/chip-8/chip"
   "github.com/anddddrew/chip-8/keyboard"
 )
 
